@@ -5,7 +5,7 @@
 #include<cmath>
 
 using namespace std;
-double Reynolds_calc(double rho, double U, double D, double mu);
+double Reynolds_calc(double rho, double U, double D, double mu);   //declare the Re function
 
 int main()
 {
